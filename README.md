@@ -1,12 +1,17 @@
 ### Hi I'm Gabriela Muñoz Clemente  (●'◡'●)
-![me] https://github.com/WabyMC/WabyMc/assets/127151484/f50dc893-fbfb-491e-8meb98-98b498c8b200
+![me](https://user-images.githubusercontent.com/127151484/244560659-f50dc893-fbfb-491e-8b98-98b498c8b200.png)
+
+## About me in code
 ```js
 const waby={
 code: [Java, JavaScript, MySQL, Eclipse, Postman, HTML, GitHub, CSS, Bootstrap]
 }
 
-
 ```
+## You can find me 🔎:
+- [LinkedIn](www.linkedin.com/in/gabriela-muñoz-clemente-a85899198)
+
+
 <!--
 **WabyMC/WabyMc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
