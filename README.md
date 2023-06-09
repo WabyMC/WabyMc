@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi I'm Gabriela Muñoz Clemente  (●'◡'●)
 
+```js
+const waby={
+code: [Java, JavaScript, MySQL, Eclipse, Postman, HTML, GitHub, CSS, Bootstrap]
+}
+
+
+```
 <!--
 **WabyMC/WabyMc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
