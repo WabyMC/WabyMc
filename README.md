@@ -1,5 +1,5 @@
 ### Hi I'm Gabriela Muñoz Clemente  (●'◡'●)
-
+![me] https://github.com/WabyMC/WabyMc/assets/127151484/f50dc893-fbfb-491e-8meb98-98b498c8b200
 ```js
 const waby={
 code: [Java, JavaScript, MySQL, Eclipse, Postman, HTML, GitHub, CSS, Bootstrap]
